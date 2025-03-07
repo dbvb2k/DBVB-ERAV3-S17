@@ -140,7 +140,7 @@ Each prompt run includes:
 ### Run 1: "A serene landscape with mountains and a lake"
 <table>
 <tr>
-<td><img src="generated_images/prompt_1_serene_landscape_mountains_lake/20250307_184946/midjourney/blue/midjourney.png" width="200" alt="Landscape Preview"/></td>
+<td><img src="generated_images/prompt_1_serene_landscape_mountains_lake/20250307_184946/black-and-white-design/eps/black-and-white-design.png" width="200" alt="Landscape Preview"/></td>
 <td>
 <b>Details:</b><br>
 • Location: prompt_1_serene_landscape_mountains_lake<br>
@@ -156,7 +156,7 @@ Each prompt run includes:
 ### Run 2: "A toy cat with contrasting colors"
 <table>
 <tr>
-<td><img src="generated_images/prompt_2_toy_cat_contrasting_colors/20250307_184946/cat-toy/blue/cat-toy.png" width="200" alt="Cat Toy Preview"/></td>
+<td><img src="generated_images/prompt_2_toy_cat_contrasting_colors/20250307_184946/cat-toy/eps/cat-toy.png" width="200" alt="Cat Toy Preview"/></td>
 <td>
 <b>Details:</b><br>
 • Location: prompt_2_toy_cat_contrasting_colors<br>
@@ -172,7 +172,7 @@ Each prompt run includes:
 ### Run 3: "Iron man and catwoman in traditional attire"
 <table>
 <tr>
-<td><img src="generated_images/prompt_3_iron_man_catwoman_traditional/20250307_184946/madhubani-art/blue/madhubani-art.png" width="200" alt="Traditional Characters Preview"/></td>
+<td><img src="generated_images/prompt_3_iron_man_catwoman_traditional/20250307_184946/midjourney/blue/midjourney.png" width="200" alt="Traditional Characters Preview"/></td>
 <td>
 <b>Details:</b><br>
 • Location: prompt_3_iron_man_catwoman_traditional<br>
