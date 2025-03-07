@@ -1,0 +1,40 @@
+Generation Summary
+==================================================
+Prompt: A serene landscape with mountains and a lake
+Timestamp: 20250307_184946
+Total styles processed: 5
+Loss types used: Blue, Color, EPS, TAP, SA
+
+Directory Structure:
+Base path: generated_images\prompt_1_serene_landscape_mountains_lake\20250307_184946
+Subdirectories:
+- midjourney/
+  - blue/
+  - color/
+  - eps/
+  - tap/
+  - sa/
+- rahkshi-bionicle/
+  - blue/
+  - color/
+  - eps/
+  - tap/
+  - sa/
+- black-and-white-design/
+  - blue/
+  - color/
+  - eps/
+  - tap/
+  - sa/
+- cat-toy/
+  - blue/
+  - color/
+  - eps/
+  - tap/
+  - sa/
+- madhubani-art/
+  - blue/
+  - color/
+  - eps/
+  - tap/
+  - sa/

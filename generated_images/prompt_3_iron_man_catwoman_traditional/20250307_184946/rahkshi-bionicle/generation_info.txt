@@ -1,0 +1,11 @@
+Prompt: Iron man and catwoman in traditional attire
+Style: rahkshi-bionicle
+Seed: 123
+Timestamp: 20250307_184946
+
+Loss Scales:
+Blue: 100.0
+Color: 100.0
+EPS: 0.1
+TAP: 0.5
+SA: 1.0

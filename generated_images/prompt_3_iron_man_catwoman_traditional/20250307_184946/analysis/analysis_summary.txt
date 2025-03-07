@@ -1,0 +1,310 @@
+
+Analysis for black-and-white-design:
+====================================================================================================
+
+Comparison with Blue Loss baseline:
+
+COLOR Loss:
+SSIM: 0.402
+PSNR: 7.914
+LPIPS: 0.678
+
+EPS Loss:
+SSIM: 0.286
+PSNR: 6.220
+LPIPS: 0.659
+
+TAP Loss:
+SSIM: 0.002
+PSNR: 1.817
+LPIPS: 0.843
+
+SA Loss:
+SSIM: 0.287
+PSNR: 6.218
+LPIPS: 0.659
+
+Loss Values:
+
+BLUE:
+blue_loss: 0.069
+custom_color: 1.177
+eps_loss: 1.429
+tap_loss: 1.041
+sa_loss: 0.581
+
+COLOR:
+blue_loss: 0.349
+custom_color: 0.764
+eps_loss: 1.434
+tap_loss: 1.846
+sa_loss: 0.625
+
+EPS:
+blue_loss: 0.546
+custom_color: 1.248
+eps_loss: 1.403
+tap_loss: 2.478
+sa_loss: 0.729
+
+TAP:
+blue_loss: 0.900
+custom_color: 1.900
+eps_loss: nan
+tap_loss: 0.000
+sa_loss: 0.000
+
+SA:
+blue_loss: 0.546
+custom_color: 1.248
+eps_loss: 1.405
+tap_loss: 2.481
+sa_loss: 0.729
+
+Analysis for cat-toy:
+====================================================================================================
+
+Comparison with Blue Loss baseline:
+
+COLOR Loss:
+SSIM: 0.350
+PSNR: 8.274
+LPIPS: 0.638
+
+EPS Loss:
+SSIM: 0.274
+PSNR: 7.372
+LPIPS: 0.564
+
+TAP Loss:
+SSIM: 0.000
+PSNR: 2.320
+LPIPS: 0.840
+
+SA Loss:
+SSIM: 0.274
+PSNR: 7.373
+LPIPS: 0.564
+
+Loss Values:
+
+BLUE:
+blue_loss: 0.152
+custom_color: 1.098
+eps_loss: 1.466
+tap_loss: 1.641
+sa_loss: 0.675
+
+COLOR:
+blue_loss: 0.506
+custom_color: 0.817
+eps_loss: 1.289
+tap_loss: 1.063
+sa_loss: 0.509
+
+EPS:
+blue_loss: 0.530
+custom_color: 1.246
+eps_loss: 1.425
+tap_loss: 2.052
+sa_loss: 0.735
+
+TAP:
+blue_loss: 0.900
+custom_color: 1.900
+eps_loss: nan
+tap_loss: 0.000
+sa_loss: 0.000
+
+SA:
+blue_loss: 0.530
+custom_color: 1.246
+eps_loss: 1.425
+tap_loss: 2.052
+sa_loss: 0.735
+
+Analysis for madhubani-art:
+====================================================================================================
+
+Comparison with Blue Loss baseline:
+
+COLOR Loss:
+SSIM: 0.688
+PSNR: 9.733
+LPIPS: 0.558
+
+EPS Loss:
+SSIM: 0.251
+PSNR: 5.706
+LPIPS: 0.755
+
+TAP Loss:
+SSIM: 0.000
+PSNR: 1.837
+LPIPS: 0.599
+
+SA Loss:
+SSIM: 0.252
+PSNR: 5.726
+LPIPS: 0.755
+
+Loss Values:
+
+BLUE:
+blue_loss: 0.081
+custom_color: 1.125
+eps_loss: 1.395
+tap_loss: 0.293
+sa_loss: 0.421
+
+COLOR:
+blue_loss: 0.253
+custom_color: 0.671
+eps_loss: 1.403
+tap_loss: 0.807
+sa_loss: 0.499
+
+EPS:
+blue_loss: 0.533
+custom_color: 1.305
+eps_loss: 1.325
+tap_loss: 2.225
+sa_loss: 0.685
+
+TAP:
+blue_loss: 0.900
+custom_color: 1.900
+eps_loss: nan
+tap_loss: 0.000
+sa_loss: 0.000
+
+SA:
+blue_loss: 0.533
+custom_color: 1.304
+eps_loss: 1.321
+tap_loss: 2.201
+sa_loss: 0.682
+
+Analysis for midjourney:
+====================================================================================================
+
+Comparison with Blue Loss baseline:
+
+COLOR Loss:
+SSIM: 0.555
+PSNR: 10.327
+LPIPS: 0.464
+
+EPS Loss:
+SSIM: 0.270
+PSNR: 6.757
+LPIPS: 0.679
+
+TAP Loss:
+SSIM: 0.006
+PSNR: 1.889
+LPIPS: 0.715
+
+SA Loss:
+SSIM: 0.270
+PSNR: 6.754
+LPIPS: 0.680
+
+Loss Values:
+
+BLUE:
+blue_loss: 0.238
+custom_color: 1.165
+eps_loss: 1.501
+tap_loss: 1.234
+sa_loss: 0.626
+
+COLOR:
+blue_loss: 0.342
+custom_color: 0.930
+eps_loss: 1.404
+tap_loss: 1.136
+sa_loss: 0.580
+
+EPS:
+blue_loss: 0.496
+custom_color: 1.321
+eps_loss: 1.580
+tap_loss: 3.039
+sa_loss: 0.984
+
+TAP:
+blue_loss: 0.900
+custom_color: 1.900
+eps_loss: nan
+tap_loss: 0.000
+sa_loss: 0.000
+
+SA:
+blue_loss: 0.496
+custom_color: 1.321
+eps_loss: 1.581
+tap_loss: 3.046
+sa_loss: 0.985
+
+Analysis for rahkshi-bionicle:
+====================================================================================================
+
+Comparison with Blue Loss baseline:
+
+COLOR Loss:
+SSIM: 0.521
+PSNR: 10.463
+LPIPS: 0.693
+
+EPS Loss:
+SSIM: 0.288
+PSNR: 6.581
+LPIPS: 0.733
+
+TAP Loss:
+SSIM: 0.017
+PSNR: 2.217
+LPIPS: 0.651
+
+SA Loss:
+SSIM: 0.288
+PSNR: 6.587
+LPIPS: 0.732
+
+Loss Values:
+
+BLUE:
+blue_loss: 0.123
+custom_color: 1.089
+eps_loss: 1.340
+tap_loss: 0.372
+sa_loss: 0.438
+
+COLOR:
+blue_loss: 0.287
+custom_color: 0.924
+eps_loss: 1.434
+tap_loss: 1.335
+sa_loss: 0.682
+
+EPS:
+blue_loss: 0.542
+custom_color: 1.301
+eps_loss: 1.232
+tap_loss: 1.998
+sa_loss: 0.670
+
+TAP:
+blue_loss: 0.900
+custom_color: 1.900
+eps_loss: nan
+tap_loss: 0.000
+sa_loss: 0.000
+
+SA:
+blue_loss: 0.542
+custom_color: 1.301
+eps_loss: 1.232
+tap_loss: 1.992
+sa_loss: 0.668
